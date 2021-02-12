@@ -1,0 +1,23 @@
+body{
+background-image:url(doctor.jpg);
+
+}
+
+h1{
+	color: white;
+background-color: #FC795F;
+	margin-left: 480px;
+	margin-right: 480px;
+ padding-left: 50px;
+}
+h2{
+	color:#89DCF1 ;
+	text-align: center;
+	
+}
+p{
+	color: white;
+	font-size:15px;
+	text-align: center;
+}
+

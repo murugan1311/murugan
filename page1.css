@@ -1,0 +1,22 @@
+body{
+	background-image:url("about.jpg"); 
+}
+.c1{
+	text-align:center;
+	color: white;
+	font-size: 18px;
+}
+h3{
+	color:#24BFEC;
+	size:20px;
+}
+h2{
+	background-color:#FC795F  ;
+	padding-left: 10px;
+	padding-top: 4px;
+	height: 40px;
+	width: 200px;
+	text-align: center;
+	margin-left: 560px;
+	color: white;
+}
